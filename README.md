@@ -52,12 +52,6 @@ git clone https://github.com/your-username/Age-Calculator.git
 
 ---
 
-## 📸 Screenshot
-
-screenshot_age_calculator.png
-
----
-
 ## 🎯 Learning Outcomes
 
 This project helped in understanding:
@@ -80,6 +74,11 @@ This project helped in understanding:
 - Birthday countdown feature
 
 ---
+
+## 📸 Output
+
+screenshot_age_calculator.png
+
 
 ## 👩‍💻 Author
 
